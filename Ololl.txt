@@ -1,0 +1,43 @@
+<td><button class="hero"><img src="http://www.dotameter/heroimg/doom.jpg" alt="doom" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/spiritbreaker.jpg" alt="spiritbreaker" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/lycan.jpg" alt="lycan" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/chaosknight.jpg" alt="chaosknight" /></button></td>
+</tr>
+<tr>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/undying.jpg" alt="undying" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/magnus.jpg" alt="magnus" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/abbadon.jpg" alt="abbadon" /></button></td>
+</tr>
+
+
+</tbody>
+</table>
+Dire ловкость
+<table class=" aligncenter" style="height: 504px; border-color: #000000; background-color: #ffffff;" width="600" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/bloodseeker.jpg" alt="bloodseeker" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/shadowfiend.jpg" alt="shadowfiend" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/razor.jpg" alt="razor" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/venomancer.jpg" alt="venomancer" /></button></td>
+</tr>
+<tr>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/facelessvoid.jpg" alt="facelessvoid" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/phantomassasin.jpg" alt="phantomassasin" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/viper.jpg" alt="viper" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/clinz.jpg" alt="clinz" /></button></td>
+</tr>
+<tr>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/broodmother.jpg" alt="broodmother" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/weaver.jpg" alt="weaver" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/spectre.jpg" alt="spectre" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/meepo.jpg" alt="meepo" /></button></td>
+</tr>
+<tr>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/nyxassasin.jpg" alt="nyxassasin" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/slark.jpg" alt="slark" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/medusa.jpg" alt="medusa" /></button></td>
+<td><button class="hero"><img src="http://www.dotameter/heroimg/terrorblade.jpg" alt="terrorblade" /></button></td>
+</tr>
+
+</tbody>
